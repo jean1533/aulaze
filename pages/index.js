@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-           JEAN FERREIRA        
+           JEAN CARLOS FERREIRA JUNIOR        
            
           </p>
           <div>
